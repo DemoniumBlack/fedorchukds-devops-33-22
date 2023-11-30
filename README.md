@@ -50,5 +50,21 @@ Workflow для всех остальных типов задач:
 
 ![Alt text](IMG/img_12.png)
 
-Перехожу в Scrum проект, создаю задачи и планирую спринт:
+Перехожу в Scrum проект, создаю задачи с эпиком и планирую спринт:
 
+![Alt text](IMG/img_13.png)
+
+![Alt text](IMG/img_14.png)
+
+Довожу задачи до состояния выполнения и закрываю спринт:
+
+![Alt text](IMG/img_15.png)
+
+Судя по Timeline выполнение спринта произошло в рамках запланированного времени:
+
+![Alt text](IMG/img_16.png)
+
+## Выгруженные схемы Workflow:
+
+* [bug workflow](https://github.com/DemoniumBlack/fedorchukds-devops-33-22/blob/main/Workflows/Bug.xml)
+* [other workflow](https://github.com/DemoniumBlack/fedorchukds-devops-33-22/blob/main/Workflows/Other.xml)
